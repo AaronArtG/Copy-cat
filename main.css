@@ -12,7 +12,9 @@ ul li{
     list-style-type: none;
     text-align: left;
 }
-
+img{
+    margin:2em;
+}
 .full-body{
     margin: 100px;
 }
